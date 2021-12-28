@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+sklearn
+pandas
+seaborn
+ipywidgets
+pyswarms
